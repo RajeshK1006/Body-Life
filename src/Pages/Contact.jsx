@@ -347,6 +347,32 @@ function Login() {
             <p className="text-[16px] w-[95%] text-[#646464] font-medium my-[40px]">
             At <span className="text-red-500">BodyLife</span>, we are dedicated to helping you achieve the body of your dreams. Our expert trainers and nutritionists will work with you to create a personalized fitness and nutrition plan that helps you reach your specific goals.
             </p>
+            <div className="grid grid-cols-2 grid-rows-2 gap-y-20 min620:grid-cols-1 min620:mx-auto">
+               <div className="flex flex-col relative">
+                 <h3 className="text-[20px] font-bold mb-10">Sithalapakkam, Chennai</h3>
+                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
+                 <p className="text-[15px] font-medium text-[#646464]">                   
+                  85 Briston Mint Street,
+                   <br /> London, E1 8LG, USA
+                </p>
+              </div>
+               <div className="flex flex-col relative">
+                <h3 className="text-[20px] font-bold mb-10">Opening Hours</h3>
+                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
+                 <div className="text-[15px] font-medium text-[#646464]">
+                <p>Mon to Fri: 4:00 am — 9:00 pm</p>
+                <p>Sat to Sun: 4:00 am — 11:00 am</p>
+              </div>
+             </div>
+             <div className="flex flex-col relative">
+                <h3 className="text-[20px] font-bold mb-10">Information</h3>
+                <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
+                <div className="text-[15px] font-medium text-[#646464]">
+                   <p>+91-9988776655</p>
+           <p>Bodylife@gymail.com</p>
+             </div>
+</div>
+</div>
           </div>
           <form ref={form} onSubmit={sendEmail} className="flex flex-col bg-[#f8f8f8] relative md1000:w-[65%] md1000:mx-auto">
             <h3 className="text-[28px] font-bold mb-14">Leave Us Your Info</h3>
