@@ -33,7 +33,7 @@ function ChooseUs() {
               We Can Give A Shape Of Your Body Here!
             </h2>
             <p className="text-[16.5px] text-[#b4b4b4] mt-7 max-w-3xl md1000:max-w-[80%]">
-              At <b>Gymate</b>, we are dedicated to helping you achieve the body of your dreams. Our expert
+              At <b>BodyLife</b>, we are dedicated to helping you achieve the body of your dreams. Our expert
               trainers and nutritionists will work with you to create a personalized fitness and nutrition
               plan that helps you reach your specific goals.
             </p>
@@ -63,7 +63,7 @@ function ChooseUs() {
                   src={BagIcon}
                   alt="icon"
                 />
-                <p className="text-white font-bold text-[18px] max-w-[150px]">Gym Bag Equipments</p>
+                <p className="text-white font-bold text-[18px] max-w-[150px]">Customized Diet Charts</p>
               </div>
 
               <div className="flex items-center gap-6">
@@ -72,7 +72,7 @@ function ChooseUs() {
                   src={BottleIcon}
                   alt="icon"
                 />
-                <p className="text-white font-bold text-[18px] max-w-[150px]">Fresh Bottle Watter</p>
+                <p className="text-white font-bold text-[18px] max-w-[150px]">Supplements</p>
               </div>
               <MainButton
                 color={`!text-white`}

@@ -10,7 +10,7 @@ function Gallery() {
         <div className="container page-padding py-[40px]">
           {/* title div -- */}
           <div className="flex flex-col text-center relative items-center ">
-            <p className="text-white relative z-10 text-[15px] uppercase font-bold mb-10">GYMAT GALLERY</p>
+            <p className="text-white relative z-10 text-[15px] uppercase font-bold mb-10">BodyLife GALLERY</p>
             <img src={TitleRed} alt="text_bg" className="w-[230px] absolute -top-[10px]  " />
 
             <h2 className="text-[34px] font-bold mb-4">Our Workplace Gallery</h2>
