@@ -352,8 +352,8 @@ function Login() {
                  <h3 className="text-[20px] font-bold mb-10">Sithalapakkam, Chennai</h3>
                  <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
                  <p className="text-[15px] font-medium text-[#646464]">                   
-                  85 Briston Mint Street,
-                   <br /> London, E1 8LG, USA
+                  Madambakkam,
+                   <br /> Tamil Nadu
                 </p>
               </div>
                <div className="flex flex-col relative">
@@ -369,7 +369,7 @@ function Login() {
                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
                 <div className="text-[15px] font-medium text-[#646464]">
                    <p>+91-9988776655</p>
-           <p>Bodylife@gymail.com</p>
+           <p>Bodylifegym@gmail.com</p>
              </div>
 </div>
 </div>
