@@ -14,12 +14,12 @@ function ChooseUs() {
         <div className="container page-padding flex flex-row md1000:flex-col md1000:items-center gap-[70px]">
           <div className="video-div relative w-[50%] md1000:w-[85%] md1000:flex md1000:justify-center">
             <img src={VideoImg} alt="video_img" className="relative w-[94%] h-auto" />
-            <img
+{/*             <img
               src={PlayImg}
               alt="play_img"
               className="absolute w-[24px] top-[42%] left-[44%] z-10 cursor-pointer min450:left-[47%] min450:top-[44%] "
             />
-            <span className="bg-white cursor-pointer p-14 absolute rounded-full top-[38.7%] left-[39.9%]"></span>
+            <span className="bg-white cursor-pointer p-14 absolute rounded-full top-[38.7%] left-[39.9%]"></span> */}
           </div>
 
           <div className="relative w-[50%] md1000:flex md1000:flex-col md1000:items-center md1000:text-center md1000:w-[85%]">
