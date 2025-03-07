@@ -158,7 +158,7 @@ function Thursday() {
               </Link>
             </li>
           </ul>
-          S
+          
         </div>
       </div>
     </>
