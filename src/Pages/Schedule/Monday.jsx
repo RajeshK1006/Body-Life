@@ -121,7 +121,7 @@ function Monday() {
             {/* class name */}
             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full">
               <p className="text-[14px] font-medium text-[#a0a0a0]">Class Name</p>
-              <p className="text-[18px] text-black font-bold mt-3">Running</p>
+              <p className="text-[18px] text-black font-bold mt-3">Cross Fit</p>
             </li>
             {/* time */}
             <li className="p-[25px] bg-[#f2f2f2] w-full text-center">
@@ -148,7 +148,7 @@ function Monday() {
             {/* class name */}
             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full">
               <p className="text-[14px] font-medium text-[#a0a0a0]">Class Name</p>
-              <p className="text-[18px] text-black font-bold mt-3">Cycling</p>
+              <p className="text-[18px] text-black font-bold mt-3">Cardio & HIIT</p>
             </li>
             {/* time */}
             <li className="p-[25px] bg-[#f2f2f2] w-full text-center">
