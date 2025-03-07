@@ -19,7 +19,7 @@ function Featured() {
             <div className="item-0-div relative">
               <div className="item-0 ease-in duration-[0.4s] p-6"></div>
               <div className="absolute z-10 bottom-10 left-10">
-                <p className="text-white text-[30px] font-bold">Cardio</p>
+                <p className="text-white text-[30px] font-bold">Power Yoga</p>
                 <p className="text-white bg-[#FF0336] text-[16px] mt-3 py-1 px-5">
                   Wednesday: 9:00am-10:00am
                 </p>
@@ -53,7 +53,7 @@ function Featured() {
             <div className="item-4-div relative">
               <div className="item-4 ease-in duration-[0.4s] p-6"></div>
               <div className="absolute z-10 bottom-10 left-10">
-                <p className="text-white text-[30px] font-bold">Martial Arts</p>
+                <p className="text-white text-[30px] font-bold">Cardio & HIIT</p>
                 <p className="text-white bg-[#FF0336] text-[16px] mt-3 py-1 px-5">Sunday: 6:00pm-7:00pm</p>
               </div>
             </div>
