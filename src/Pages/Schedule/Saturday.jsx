@@ -77,7 +77,7 @@ function Saturday() {
             {/* trainer */}
             <li className="p-[25px] bg-[#f2f2f2] w-full text-center">
               <p className="text-[14px] font-medium text-[#a0a0a0]">Trainer</p>
-              <p className="text-[18px] text-black font-bold mt-3">David Laid</p>
+              <p className="text-[18px] text-black font-bold mt-3">Vinoth</p>
             </li>
 {/*             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full text-right min800:text-center">
               <button className="text-white text-[15px] font-medium bg-[#555] py-[10px] px-[20px] rounded-[30px] mt-3 hover:bg-[#ff0336] ease-in duration-200 ">
@@ -99,7 +99,7 @@ function Saturday() {
             {/* class name */}
             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full">
               <p className="text-[14px] font-medium text-[#a0a0a0]">Class Name</p>
-              <p className="text-[18px] text-black font-bold mt-3">Boxing</p>
+              <p className="text-[18px] text-black font-bold mt-3">Body Building</p>
             </li>
             {/* time */}
             <li className="p-[25px] bg-[#f2f2f2] w-full text-center">
@@ -109,7 +109,7 @@ function Saturday() {
             {/* trainer */}
             <li className="p-[25px] bg-[#f2f2f2] w-full text-center">
               <p className="text-[14px] font-medium text-[#a0a0a0]">Trainer</p>
-              <p className="text-[18px] text-black font-bold mt-3">Tyson Fury</p>
+              <p className="text-[18px] text-black font-bold mt-3">Vinoth</p>
             </li>
 {/*             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full text-right min800:text-center">
               <button className="text-white text-[15px] font-medium bg-[#555] py-[10px] px-[20px] rounded-[30px] mt-3 hover:bg-[#ff0336] ease-in duration-200 ">
@@ -141,7 +141,7 @@ function Saturday() {
             {/* trainer */}
             <li className="p-[25px] bg-[#f2f2f2] w-full text-center">
               <p className="text-[14px] font-medium text-[#a0a0a0]">Trainer</p>
-              <p className="text-[18px] text-black font-bold mt-3">Milica Tails</p>
+              <p className="text-[18px] text-black font-bold mt-3">Mohan</p>
             </li>
 {/*             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full text-right min800:text-center">
               <button className="text-white text-[15px] font-medium bg-[#555] py-[10px] px-[20px] rounded-[30px] mt-3 hover:bg-[#ff0336] ease-in duration-200 ">
