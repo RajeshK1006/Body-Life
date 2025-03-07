@@ -77,7 +77,7 @@ function Monday() {
             {/* trainer */}
             <li className="p-[25px] bg-[#f2f2f2] w-full text-center">
               <p className="text-[14px] font-medium text-[#a0a0a0]">Trainer</p>
-              <p className="text-[18px] text-black font-bold mt-3">David Vila</p>
+              <p className="text-[18px] text-black font-bold mt-3">Ravi</p>
             </li>
             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full  min800:justify-center items-center flex justify-end">
               <Link
@@ -104,7 +104,7 @@ function Monday() {
             {/* trainer */}
             <li className="p-[25px] bg-[#f2f2f2] w-full text-center">
               <p className="text-[14px] font-medium text-[#a0a0a0]">Trainer</p>
-              <p className="text-[18px] text-black font-bold mt-3">John Weights</p>
+              <p className="text-[18px] text-black font-bold mt-3">Vinoth</p>
             </li>
             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full min800:justify-center items-center flex justify-end">
               <Link
@@ -131,7 +131,7 @@ function Monday() {
             {/* trainer */}
             <li className="p-[25px] bg-[#f2f2f2] w-full text-center">
               <p className="text-[14px] font-medium text-[#a0a0a0]">Trainer</p>
-              <p className="text-[18px] text-black font-bold mt-3">Junifor Jonas</p>
+              <p className="text-[18px] text-black font-bold mt-3">Prabha</p>
             </li>
             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full items-center flex justify-end min800:justify-center">
               <Link
@@ -158,7 +158,7 @@ function Monday() {
             {/* trainer */}
             <li className="p-[25px] bg-[#f2f2f2] w-full text-center">
               <p className="text-[14px] font-medium text-[#a0a0a0]">Trainer</p>
-              <p className="text-[18px] text-black font-bold mt-3">Robert Louis</p>
+              <p className="text-[18px] text-black font-bold mt-3">Mohan</p>
             </li>
             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full items-center flex justify-end min800:justify-center">
               <Link
