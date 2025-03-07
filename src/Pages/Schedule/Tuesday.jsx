@@ -143,7 +143,7 @@ function Tuesday() {
               <p className="text-[14px] font-medium text-[#a0a0a0]">Trainer</p>
               <p className="text-[18px] text-black font-bold mt-3">Cristofer Columbo</p>
             </li>
-            <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full text-right min800:text-center">
+{/*             <li className="py-[25px] px-[55px] bg-[#f2f2f2] w-full text-right min800:text-center"> */}
 {/*               <button className="text-white text-[15px] font-medium bg-[#555] py-[10px] px-[20px] rounded-[30px] mt-3 hover:bg-[#ff0336] ease-in duration-200 ">
                 Join Now
               </button>
