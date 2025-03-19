@@ -22,7 +22,7 @@ function Classes() {
             load ? "grid" : "hidden"
           }`}
         >
-          <ClassesBox bgImg="cycling-bg" title="Cycling" trainer="Dorian Yate" date="Wed: 9:00 am" />
+          <ClassesBox bgImg="cycling-bg" title="Cycling" trainer="            " date="     " />
           <ClassesBox bgImg="meditaion-bg" title="Meditation" trainer="Maria Mich" date="Fri: 1:00 pm" />
           {/* <ClassesBox bgImg="mma-bg" title="Boxing" trainer="John Flex" date="Tue: 4:00 pm" /> */}
           {/* <ClassesBox bgImg="karate-bg" title="Karate" trainer="David Rich" date="Sat: 9:00 am" /> */}
