@@ -55,7 +55,7 @@ function Classes() {
           <ClassesBox bgImg="fitness-bg" title="Fitness" trainer="Mia Williams" date="Sun: 5:00 pm" />
         </div>
 
-        <button
+{/*         <button
           className="text-[15px] text-white bg-slate-600 px-14 py-6 font-medium uppercase shadow-2xl mb-14"
           onClick={() => {
             loadMore();
@@ -64,7 +64,7 @@ function Classes() {
         >
           {load ? "show more" : "show less"}
         </button>
-
+ */}
         <Footer />
       </section>
     </>
